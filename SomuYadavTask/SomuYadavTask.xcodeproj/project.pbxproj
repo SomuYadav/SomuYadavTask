@@ -1,0 +1,572 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		E91290402E5C29D700A95CD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E91290212E5C29D500A95CD8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E91290282E5C29D500A95CD8;
+			remoteInfo = SomuYadavTask;
+		};
+		E912904A2E5C29D700A95CD8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E91290212E5C29D500A95CD8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E91290282E5C29D500A95CD8;
+			remoteInfo = SomuYadavTask;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E91290292E5C29D500A95CD8 /* SomuYadavTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SomuYadavTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E912903F2E5C29D700A95CD8 /* SomuYadavTaskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SomuYadavTaskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E91290492E5C29D700A95CD8 /* SomuYadavTaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SomuYadavTaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		E91290512E5C29D700A95CD8 /* Exceptions for "SomuYadavTask" folder in "SomuYadavTask" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = E91290282E5C29D500A95CD8 /* SomuYadavTask */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E912902B2E5C29D500A95CD8 /* SomuYadavTask */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				E91290512E5C29D700A95CD8 /* Exceptions for "SomuYadavTask" folder in "SomuYadavTask" target */,
+			);
+			path = SomuYadavTask;
+			sourceTree = "<group>";
+		};
+		E91290422E5C29D700A95CD8 /* SomuYadavTaskTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SomuYadavTaskTests;
+			sourceTree = "<group>";
+		};
+		E912904C2E5C29D700A95CD8 /* SomuYadavTaskUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SomuYadavTaskUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E91290262E5C29D500A95CD8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E912903C2E5C29D700A95CD8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E91290462E5C29D700A95CD8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E91290202E5C29D500A95CD8 = {
+			isa = PBXGroup;
+			children = (
+				E912902B2E5C29D500A95CD8 /* SomuYadavTask */,
+				E91290422E5C29D700A95CD8 /* SomuYadavTaskTests */,
+				E912904C2E5C29D700A95CD8 /* SomuYadavTaskUITests */,
+				E912902A2E5C29D500A95CD8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E912902A2E5C29D500A95CD8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E91290292E5C29D500A95CD8 /* SomuYadavTask.app */,
+				E912903F2E5C29D700A95CD8 /* SomuYadavTaskTests.xctest */,
+				E91290492E5C29D700A95CD8 /* SomuYadavTaskUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E91290282E5C29D500A95CD8 /* SomuYadavTask */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E91290522E5C29D700A95CD8 /* Build configuration list for PBXNativeTarget "SomuYadavTask" */;
+			buildPhases = (
+				E91290252E5C29D500A95CD8 /* Sources */,
+				E91290262E5C29D500A95CD8 /* Frameworks */,
+				E91290272E5C29D500A95CD8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E912902B2E5C29D500A95CD8 /* SomuYadavTask */,
+			);
+			name = SomuYadavTask;
+			packageProductDependencies = (
+			);
+			productName = SomuYadavTask;
+			productReference = E91290292E5C29D500A95CD8 /* SomuYadavTask.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E912903E2E5C29D700A95CD8 /* SomuYadavTaskTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E91290572E5C29D700A95CD8 /* Build configuration list for PBXNativeTarget "SomuYadavTaskTests" */;
+			buildPhases = (
+				E912903B2E5C29D700A95CD8 /* Sources */,
+				E912903C2E5C29D700A95CD8 /* Frameworks */,
+				E912903D2E5C29D700A95CD8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E91290412E5C29D700A95CD8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E91290422E5C29D700A95CD8 /* SomuYadavTaskTests */,
+			);
+			name = SomuYadavTaskTests;
+			packageProductDependencies = (
+			);
+			productName = SomuYadavTaskTests;
+			productReference = E912903F2E5C29D700A95CD8 /* SomuYadavTaskTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E91290482E5C29D700A95CD8 /* SomuYadavTaskUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E912905A2E5C29D700A95CD8 /* Build configuration list for PBXNativeTarget "SomuYadavTaskUITests" */;
+			buildPhases = (
+				E91290452E5C29D700A95CD8 /* Sources */,
+				E91290462E5C29D700A95CD8 /* Frameworks */,
+				E91290472E5C29D700A95CD8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E912904B2E5C29D700A95CD8 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E912904C2E5C29D700A95CD8 /* SomuYadavTaskUITests */,
+			);
+			name = SomuYadavTaskUITests;
+			packageProductDependencies = (
+			);
+			productName = SomuYadavTaskUITests;
+			productReference = E91290492E5C29D700A95CD8 /* SomuYadavTaskUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E91290212E5C29D500A95CD8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					E91290282E5C29D500A95CD8 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					E912903E2E5C29D700A95CD8 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = E91290282E5C29D500A95CD8;
+					};
+					E91290482E5C29D700A95CD8 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = E91290282E5C29D500A95CD8;
+					};
+				};
+			};
+			buildConfigurationList = E91290242E5C29D500A95CD8 /* Build configuration list for PBXProject "SomuYadavTask" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E91290202E5C29D500A95CD8;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E912902A2E5C29D500A95CD8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E91290282E5C29D500A95CD8 /* SomuYadavTask */,
+				E912903E2E5C29D700A95CD8 /* SomuYadavTaskTests */,
+				E91290482E5C29D700A95CD8 /* SomuYadavTaskUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E91290272E5C29D500A95CD8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E912903D2E5C29D700A95CD8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E91290472E5C29D700A95CD8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E91290252E5C29D500A95CD8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E912903B2E5C29D700A95CD8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E91290452E5C29D700A95CD8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E91290412E5C29D700A95CD8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E91290282E5C29D500A95CD8 /* SomuYadavTask */;
+			targetProxy = E91290402E5C29D700A95CD8 /* PBXContainerItemProxy */;
+		};
+		E912904B2E5C29D700A95CD8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E91290282E5C29D500A95CD8 /* SomuYadavTask */;
+			targetProxy = E912904A2E5C29D700A95CD8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E91290532E5C29D700A95CD8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SomuYadavTask/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = somuyadav.SomuYadavTask;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E91290542E5C29D700A95CD8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SomuYadavTask/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = somuyadav.SomuYadavTask;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E91290552E5C29D700A95CD8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E91290562E5C29D700A95CD8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E91290582E5C29D700A95CD8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = somuyadav.SomuYadavTaskTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SomuYadavTask.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SomuYadavTask";
+			};
+			name = Debug;
+		};
+		E91290592E5C29D700A95CD8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = somuyadav.SomuYadavTaskTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SomuYadavTask.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SomuYadavTask";
+			};
+			name = Release;
+		};
+		E912905B2E5C29D700A95CD8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = somuyadav.SomuYadavTaskUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SomuYadavTask;
+			};
+			name = Debug;
+		};
+		E912905C2E5C29D700A95CD8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = somuyadav.SomuYadavTaskUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SomuYadavTask;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E91290242E5C29D500A95CD8 /* Build configuration list for PBXProject "SomuYadavTask" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E91290552E5C29D700A95CD8 /* Debug */,
+				E91290562E5C29D700A95CD8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E91290522E5C29D700A95CD8 /* Build configuration list for PBXNativeTarget "SomuYadavTask" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E91290532E5C29D700A95CD8 /* Debug */,
+				E91290542E5C29D700A95CD8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E91290572E5C29D700A95CD8 /* Build configuration list for PBXNativeTarget "SomuYadavTaskTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E91290582E5C29D700A95CD8 /* Debug */,
+				E91290592E5C29D700A95CD8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E912905A2E5C29D700A95CD8 /* Build configuration list for PBXNativeTarget "SomuYadavTaskUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E912905B2E5C29D700A95CD8 /* Debug */,
+				E912905C2E5C29D700A95CD8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E91290212E5C29D500A95CD8 /* Project object */;
+}
