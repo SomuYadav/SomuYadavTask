@@ -10,6 +10,6 @@
 - Added **unit tests with good coverage**, ensuring correctness and long-term maintainability.  
 - Verified that the app compiles with **zero warnings** in the latest Xcode, adapts correctly across all supported iOS devices, and avoids **Auto Layout conflicts** during runtime.  
 
-Attachment:
-https://github.com/user-attachments/assets/dec5b499-a4bc-4209-a023-7b4f568938c6
+## Demo Video  
 
+[![Watch the demo](https://img.youtube.com/vi/dec5b499-a4bc-4209-a023-7b4f568938c6/0.jpg)](https://github.com/user-attachments/assets/dec5b499-a4bc-4209-a023-7b4f568938c6)
