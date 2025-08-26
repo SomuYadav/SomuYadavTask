@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		E91290512E5C29D700A95CD8 /* Exceptions for "SomuYadavTask" folder in "SomuYadavTask" target */ = {
+		E91290512E5C29D700A95CD8 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -40,24 +40,9 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E912902B2E5C29D500A95CD8 /* SomuYadavTask */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				E91290512E5C29D700A95CD8 /* Exceptions for "SomuYadavTask" folder in "SomuYadavTask" target */,
-			);
-			path = SomuYadavTask;
-			sourceTree = "<group>";
-		};
-		E91290422E5C29D700A95CD8 /* SomuYadavTaskTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SomuYadavTaskTests;
-			sourceTree = "<group>";
-		};
-		E912904C2E5C29D700A95CD8 /* SomuYadavTaskUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SomuYadavTaskUITests;
-			sourceTree = "<group>";
-		};
+		E912902B2E5C29D500A95CD8 /* SomuYadavTask */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (E91290512E5C29D700A95CD8 /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = SomuYadavTask; sourceTree = "<group>"; };
+		E91290422E5C29D700A95CD8 /* SomuYadavTaskTests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = SomuYadavTaskTests; sourceTree = "<group>"; };
+		E912904C2E5C29D700A95CD8 /* SomuYadavTaskUITests */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = SomuYadavTaskUITests; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -200,6 +185,7 @@
 				};
 			};
 			buildConfigurationList = E91290242E5C29D500A95CD8 /* Build configuration list for PBXProject "SomuYadavTask" */;
+			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -208,7 +194,6 @@
 			);
 			mainGroup = E91290202E5C29D500A95CD8;
 			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = E912902A2E5C29D500A95CD8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
